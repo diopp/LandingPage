@@ -1,0 +1,28 @@
+h1 {
+    font-size: 64px !important;
+    color: white;
+    font-family: 'Muli', sans-serif;
+    line-height: 1.2;
+    font-weight: 400;
+    white-space: pre-line;
+    letter-spacing: normal;
+    padding-left: 9%;
+    margin-top: 12%;
+
+
+
+}
+
+p{
+    padding-left: 9%;  
+    color: white;
+}
+
+button {
+    padding-left: 9%;
+}
+
+.hero {
+ 
+    left: 40px;
+}

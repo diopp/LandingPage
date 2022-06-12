@@ -13,7 +13,7 @@ export default function Navbar() {
               className="Brand-name 	"
             
             >
-              Zico Group LLC
+              Ziko Group LLC
             </a>
            
           </div>

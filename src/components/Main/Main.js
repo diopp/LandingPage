@@ -2,60 +2,32 @@ import './Main.css'
 
 function Main () {
     return (
-<section>
-<div class="grid grid-cols-3 gap-4 place-items-center auto-cols-max ">
-  <div className="text-gray-50 grid1	">
-      
-      <h3 className='h3'>On the Road</h3>
-      <p>   Book online in minutes. You can cancel for free up to 24 hours before your trip.
-            Have the car delivered or pick it up from us. Grab the keys, and hit the road. 
-      </p>
-      
-      
+<section class="py-25 bg-black">
+    <div class="flex flex-col px-8 mx-auto space-y-12 max-w-7xl xl:px-12">
+
+        <div class="flex flex-col mb-8 animated fadeIn sm:flex-row">
+            <div id= 'bg' class="flex items-center mb-8 sm:w-1/2 md:w-5/12 sm:order-last">
+                <img class="" src="https://images.pexels.com/photos/2190283/pexels-photo-2190283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" />
+            </div>
+            <div class="flex flex-col justify-center mt-5 mb-6 md:mt-0 sm:w-1/2 md:w-7/12 sm:pr-16">
+                <h1 id='header1' class="mb-1 text-sm font-semibold leading-none text-left  uppercase">Who We Are</h1>
+                <h3 id='pr' class="mt-2 text-2xl sm:text-left md:text-4xl">Carsharing service.</h3>
+                <p class="mt-5 text-lg text-gray-700 text md:text-left">Crafting your user experience has never been easier, with our intuitive drag'n drop interface you will be creating beatiful designs in no time.
+                Crafting your user experience has never been easier, with our intuitive drag'n drop 
+                
+                interface you will be creating beatiful designs in no time
+               .</p>
+                <button id='button' className="button">
+        Learn More
+        </button>
+            </div>
+
+            
+        </div>
+     
+
+
     </div>
-  <div className="text-gray-50 grid1	">
-      <h3>A Smart Choice </h3>
-      <p>Great deals on a luxury drive — complete with a better, more convenient experience versus rental car companies. </p>
-
-
-      </div>
-  <div className="text-gray-50	">
-      <h3>A Safe Choice</h3>
-      <p>Our cars are cleaned and sanitized before and after every trip. You are also covered with liability insurance up to $750,000 for the Premier plan.*</p>
-  </div>
-  </div>
-
-<div>
-    <h2>Book Your Car</h2>
-    <hr></hr>
-</div>
-
-
-<div class="grid grid-cols-2 gap-4 place-items-center ">
-  <div className="text-gray-50  wrapper	">
-      
-      <h4 className='h4'>We'd love to hear from you!</h4>
-      <p className='p'>   We want to make sure your experience with our cars goes smoothly.
-           If you have a question about our services, or want to know if we're a good fit, send us a message. 
-      </p>
-
-      <h5 className='h5'>team@valencialuxuryrentals.com
-</h5>
-      
-      
-    </div>
-  <div className="text-gray-50 	">
-  <img src="https://img1.wsimg.com/isteam/ip/56a42356-be06-4430-86db-8a07e6b44d1e/range1.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:774/qt=q:91" class="max-w-full h-auto" alt="..." />
-
-
-
-      </div>
- 
-  </div>
-
-
-
-
 </section>
 
 

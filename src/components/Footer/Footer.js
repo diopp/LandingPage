@@ -6,7 +6,7 @@ function Footer () {
 
 
         <div id='footer' class="text-center text-white p-4 ">
-        Copyright © 2022 Valencialuxuryrentals - All Rights Reserved.
+        Copyright © 2022 Zikogroupllc - All Rights Reserved.
 
 
          

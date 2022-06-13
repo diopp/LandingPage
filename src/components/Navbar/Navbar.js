@@ -7,7 +7,7 @@ export default function Navbar() {
     <>
       <nav className="relative flex flex-wrap navbar">
         <div className="container   items-center justify-between">
-          <div className="">
+          <div>
             <a
 
               className="Brand-name 	"

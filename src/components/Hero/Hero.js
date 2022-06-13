@@ -11,7 +11,7 @@ function Hero () {
         Book Now
         </a>
 
-        <a className=" button-2" href="#one"  alt=''    >
+        <a className=" button-2"    >
 About Us
         </a>
  

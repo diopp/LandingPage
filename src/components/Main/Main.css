@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url("https://use.typekit.net/ygj8feo.css");
 
 
 section {
@@ -119,6 +120,7 @@ img{
 @media (max-width: 1000px) { 
     img{
         visibility: hidden;
+        display: none;
     }
 
     .h3{
@@ -163,7 +165,27 @@ img{
       
     }
 
-    
+    #header1{
+        padding-top: -12%;
+       font-size: 45px !important;
+       text-align: center;
+     
+    }
+
+    #pr{
+        font-size: 26px !important;
+        text-align: center;
+        font-weight: 100;
+    }
+
+   button#button {
+       padding: 10px 20px;
+     
+   
+   
+   }
+
+  
 
 
 }
@@ -184,9 +206,10 @@ h6{
 }
 
 #bg{
-background-image: url('https://images.pexels.com/photos/2190283/pexels-photo-2190283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
 background-size: cover;
-box-shadow:inset 0 0 0 200px rgba(34, 33, 33, 0.025);
+box-shadow:inset 0 0 0 200px rgba(0, 0, 0, 0.025);
+width: 60%;
+
 
 
 
@@ -199,7 +222,11 @@ img{
     padding-bottom: 11%;
     width: 80%;
     margin-bottom:  -12px;
- bottom: 7%;
+    bottom: 7%;
+    box-shadow:inset 0 0 0 200px rgb(0, 0, 0);
+
+
+
 
 
 
@@ -211,10 +238,10 @@ img:hover {
 
 
 button#button{
-    font-family:Montserrat;
-    display: inline-block;
-    padding: 10px 30px;
-    margin: 10px 0;
+    font-family: Quicksand, sans-serif;
+        display: inline-block;
+    padding: 5px 30px;
+    margin: 20px 0;
     position: relative;
     border: 1px solid rgb(79, 79, 79);
     color: #fff;
@@ -224,11 +251,12 @@ button#button{
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     margin-left: 3.7%;
-    width: 29%;
+    width: 35%;
+    font-weight: 200;
   }
 
   button#button:before{
-    font-family:Montserrat;
+    font-family: Quicksand, sans-serif;
     content: "";
     z-index: -1;
     position: absolute;
@@ -237,13 +265,13 @@ button#button{
     top: 0;
     left: -100%;
    
-    background-color: #cea6f3;
+    background-color: #493b57;
  
   }
   
   #button:hover{
     color: #fff;
-    background-color: #cea6f3;
+    background-color: #c39aea;
     -webkit-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
@@ -259,6 +287,11 @@ button#button{
 
   #pr{
       margin-left: 4%;
-      font-size: 39px;
+      font-size: 32px;
 
   }
+
+#one {
+    padding-bottom: -110%;
+
+}

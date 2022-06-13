@@ -6,15 +6,15 @@ import { Link } from "react-router-dom";
 function Hero () {
     return (
         <div className=' hero border-l-4 '>
-        <h1> Car Sharing Made Easy</h1>
+        <h1 id='h1'> Car Sharing Made Easy</h1>
         <p>Rent with style</p>
-        <button className=" button-1  ">
+        <a className=" button-1" href='https://www.hyrecar.com/howitworks' target="_blank" >
         Book Now
-        </button>
+        </a>
 
-        <button className=" button-2" href='/about' alt=''    >
-        <Link to="about">About Us</Link>
-        </button>
+        <a className=" button-2" href="#one"  alt=''    >
+About Us
+        </a>
  
         </div>
     )

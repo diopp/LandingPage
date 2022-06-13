@@ -8,13 +8,13 @@ export default function Navbar() {
       <nav className="relative flex flex-wrap navbar">
         <div className="container   items-center justify-between">
           <div>
-            <a
+            <button
 
               className="Brand-name 	"
             
             >
               Ziko Group LLC
-            </a>
+            </button>
            
           </div>
     

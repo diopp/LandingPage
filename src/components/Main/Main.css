@@ -118,6 +118,12 @@ img{
 }
 
 @media (max-width: 1000px) { 
+
+    #one{
+        margin-top: 50%;
+    }
+
+
     img{
         visibility: hidden;
         display: none;

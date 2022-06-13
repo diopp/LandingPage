@@ -7,13 +7,13 @@ function Hero () {
         <div className=' hero border-l-4 '>
         <h1 id='h1'> Car Sharing Made Easy</h1>
         <p>Rent with style</p>
-        <a className=" button-1"  >
+        <button className=" button-1"  >
         Book Now
-        </a>
+        </button>
 
-        <a className=" button-2"    >
+        <button className=" button-2"    >
 About Us
-        </a>
+        </button>
  
         </div>
     )

@@ -30,8 +30,7 @@ body {
     background-image:  url("https://images.pexels.com/photos/10066083/pexels-photo-10066083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-attachment: fixed;
    background-repeat: no-repeat;
-   background-size: 390px 600px;
-   background-position-y:-15%;
+ 
    box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.498);
   ;
   }

@@ -110,15 +110,24 @@ p{
 .hero {
     padding-top: -6%;
     border-left: hidden;
+    border-left: 0%;
     margin-bottom: 30%;
   
 
 }
 
 h1#h1{
-    font-size: 40px !important;
-    text-align: left;
-    font-weight: 400;
+    font-size: 38px !important;
+    font-weight: 300;
+    text-align: center;
+    margin-left: -26px;
+    margin-bottom: 8px;
+    white-space: pre-line;
+    line-height: 1.2;
+
+
+
+    
   
 
 
@@ -127,7 +136,53 @@ h1#h1{
 p{
     color: rgb(255, 255, 255);
     font-weight: 100;
-    padding-top: 1%;
+    text-align: center;
+    margin-top: 1%;
+    font-size: 20px !important;
+    line-height: 1.5;
+    font-family: Quicksand, sans-serif;
+    letter-spacing: normal;
+
+
+}
+
+button {
+
+  font-size: 15px;
+  width: 60%;
+  
+  background-color: #5151514f;
+  color: rgb(0, 0, 0);
+  border-radius: 0px;
+  padding-right: 32px;
+  justify-content: center;
+  letter-spacing: 0.063em;
+  right: -16%;
+ 
+  text-align: center;
+
+
+  font-weight: 100;
+  text-align: center;
+  font-family: Quicksand, sans-serif;
+
+
+}
+
+.button-1{
+  font-family:Montserrat;
+  display: inline-block;
+  padding: 20px 40px;
+  margin: 10px 0;
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.354);
+  color: #fff;
+   background-color: #9675b695 !important;
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  margin-left: 3.7%;
 }
 
 

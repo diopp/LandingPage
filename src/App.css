@@ -27,12 +27,12 @@ body {
 @media (max-width: 1000px) { 
 
   body{
-    background-image:  url("https://images.pexels.com/photos/10066083/pexels-photo-10066083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-    background-attachment: fixed;
+    background-image:  url("https://images.pexels.com/photos/5287537/pexels-photo-5287537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-attachment:fixed;
    background-repeat: no-repeat;
  background-size: contain;
  background-position-y: -2px;
-   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.498);
+   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.319);
   ;
   }
 

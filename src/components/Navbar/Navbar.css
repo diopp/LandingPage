@@ -25,7 +25,7 @@
 
 @media (max-width: 1000px) { 
     .navbar{
-        padding-bottom: 5%;
+        padding-bottom: 3%;
         
 
     }
@@ -37,7 +37,7 @@
       background-color: rgba(0, 0, 0, 0);
       text-align: center;
       margin-left: 25%;
-      margin-top: 5%;
+      margin-top: 6%;
 
      
     }

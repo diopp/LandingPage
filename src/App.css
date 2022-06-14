@@ -31,7 +31,7 @@ body {
     background-attachment: fixed;
    background-repeat: no-repeat;
    background-size: 390px 600px;
-   background-position-y:-5%;
+   background-position-y:10%;
    box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.498);
   ;
   }

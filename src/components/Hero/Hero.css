@@ -120,8 +120,8 @@ h1#h1{
     font-size: 38px !important;
     font-weight: 300;
     text-align: center;
-    margin-left: -26px;
-    margin-bottom: 8px;
+    margin-left: -21px;
+    margin-top: 60px;
     white-space: pre-line;
     line-height: 1.2;
 
@@ -137,11 +137,12 @@ p{
     color: rgb(255, 255, 255);
     font-weight: 100;
     text-align: center;
-    margin-top: 1%;
+    margin-top: 10%;
     font-size: 20px !important;
     line-height: 1.5;
     font-family: Quicksand, sans-serif;
     letter-spacing: normal;
+    display: none;
 
 
 }

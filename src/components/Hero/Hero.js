@@ -5,7 +5,7 @@ import 'animate.css';
 function Hero () {
     return (
         <div className=' hero border-l-4 '>
-        <h1 id='h1'> Car Sharing Made Easy</h1>
+        <h1 id='h1'> Rent with style</h1>
         <p>Rent with style</p>
         <button className=" button-1"  >
         Book Now

@@ -120,7 +120,12 @@ img{
 @media (max-width: 1000px) { 
 
     #one{
-        margin-top: -1%;
+        margin-top: -25%;
+    }
+
+    button#button{
+        width: auto !important;
+        left: 1px;
     }
 
 
@@ -171,15 +176,15 @@ img{
       
     }
 
-    #header1{
+    h1#header1{
         padding-top: -12%;
-       font-size: 45px !important;
+       font-size: 55px !important;
        text-align: center;
      
     }
 
     #pr{
-        font-size: 26px !important;
+        font-size: 15px !important;
         text-align: center;
         font-weight: 100;
     }
@@ -238,9 +243,7 @@ img{
 
 }
 
-img:hover {
 
-}
 
 
 button#button{
@@ -289,15 +292,22 @@ button#button{
 
   #header1 {
       color: rgba(199, 199, 199, 0.399);
+      font-size: 65px !important;
   }
 
   #pr{
       margin-left: 4%;
-      font-size: 32px;
+      font-size: 30px;
+      font-size: 100;
+      color: #c39aeac8;
 
   }
 
 #one {
     padding-bottom: -110%;
 
+}
+
+#p{
+    color: #878585;
 }

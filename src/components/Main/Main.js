@@ -17,17 +17,16 @@ function Main () {
 
             </div>
             <div id='div2' class="flex flex-col justify-center mt-5 mb-6 md:mt-0 sm:w-1/2 md:w-7/12 sm:pr-16">
-            <AnimationOnScroll animateIn="animate__fadeInDown">
-                <h1 id='header1' class="mb-1 text-sm font-semibold leading-none text-left  uppercase">Who We Are</h1>
-                <h3 id='pr' class="mt-2 text-2xl sm:text-left md:text-4xl">Carsharing service.</h3>
-                <p class="mt-5 text-lg text-gray-700 text md:text-left">Crafting your user experience has never been easier, with our intuitive drag'n drop interface you will be creating beatiful designs in no time.
-                Crafting your user experience has never been easier, with our intuitive drag'n drop 
-                
-                interface you will be creating beatiful designs in no time
-               .</p>
+            <AnimationOnScroll animateIn="animate__fadeInLeft">
+                <h1 id='header1' class=" uppercase">About us</h1>
+                <h3 id='pr' class="mt-2 text-2xl sm:text-left md:text-4xl">Carsharing & Consulting service.</h3>
+                <p id='p' class="mt-5 text-lg text-gray-700 text md:text-left">Ziko Group is a Management Consulting Firm providing solutions
+                 powered by digital platforms to rideshare, automotive, and financial industries.</p>
+                 <p id='p' class="mt-5 text-lg text-gray-700 text md:text-left">Ziko Motorsports is a division of Ziko Group specialized in providing on-demand car rentals that are efficient and reliable to the growing rideshare community.
+</p>
                </AnimationOnScroll>
                 <button id='button' className="button">
-        Learn More
+        Contact Us
         </button>
             </div>
 
@@ -37,6 +36,11 @@ function Main () {
 
 
     </div>
+
+
+
+
+    
 </section>
 
 

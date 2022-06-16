@@ -17,6 +17,13 @@
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+   
+
+}
+
+.Brand-name1{
+display: none;
+
 }
 
 .navbar {
@@ -30,7 +37,7 @@
 
     }
 
-    .Brand-name{
+    .Brand-name1{
       font-size: 17px!important;
       line-height: 1.2;
       margin-left:12%;

@@ -9,12 +9,13 @@ function Hero () {
         <h1 id='h1'> Car Sharing Made Easy</h1>
         <p>Rent with style</p>
         <button className=" button-1"  >
-        Book Now
+        <a href="https://www.hyrecar.com/" target="_blank" >Book Now</a>
         </button>
 
-        <button className=" button-2"    >
-About Us
-        </button>
+        <button className='button-2'><a href="#one">About Us</a></button>
+
+
+
  
         </div>
     )

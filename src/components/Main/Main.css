@@ -31,7 +31,7 @@ h3{
     font-size: 36px;
     top: 0;
     font-weight: 400;
-    color: rgb(189, 158, 218);
+    color: #bd9eda;
     font-family: Quicksand, sans-serif;
     width: inherit;
     padding-right: 10px;
@@ -88,7 +88,7 @@ img{
 
 .p{
   
-    font-size: 24px;
+    font-size: 20px;
     color: rgb(145,145,145);
     line-height: 1.25;
     font-weight: 400;
@@ -178,15 +178,25 @@ img{
 
     h1#header1{
         padding-top: -12%;
-       font-size: 55px !important;
-       text-align: center;
+        font-size: 16px !important;
+        letter-spacing: 4px;
+        text-align: center;
+        font-family: "Jost", sans-serif;
+        font-weight: 500;
+        line-height: 1.9;
+        color: #bd9eda;
+        text-transform: uppercase;
      
     }
 
     #pr{
-        font-size: 15px !important;
+        font-size: 30px;
         text-align: center;
-        font-weight: 100;
+        color: #3a3a3abf !important;
+        font-family: "Jost", sans-serif;
+    font-weight: 500;
+    line-height: 1.16;
+    color: #1c1c1c;
     }
 
    button#button {
@@ -195,6 +205,7 @@ img{
    
    
    }
+
 
   
 
@@ -310,4 +321,5 @@ button#button{
 
 #p{
     color: #878585;
+    font-size: 18px !important;
 }

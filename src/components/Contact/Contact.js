@@ -66,7 +66,7 @@ function Contact () {
         
                     <div class="flex justify-center mt-6">
                         
-                        <button id='button' >Send Message</button>
+                        <button type='submit' id='button' >Send Message</button>
                         
                     </div>
                     </form>

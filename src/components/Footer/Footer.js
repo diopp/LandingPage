@@ -10,7 +10,7 @@ function Footer () {
 >
   <div className="container pt-9">
     <div className="flex justify-center mb-9 ml-10">
-      <a href="#!" className="mr-9 text-gray-800">
+      <a href="#!" className="icon mr-9 text-gray-800">
         <svg
           aria-hidden="true"
           focusable="false"
@@ -27,7 +27,7 @@ function Footer () {
           />
         </svg>
       </a>
-      <a href="#!" className="mr-9 text-gray-800">
+      <a href="#!" className=" icon mr-9 text-gray-800">
         <svg
           aria-hidden="true"
           focusable="false"
@@ -44,7 +44,7 @@ function Footer () {
           />
         </svg>
       </a>
-      <a href="#!" className="mr-9 text-gray-800">
+      <a href="#!" className="icon mr-9 text-gray-800">
         <svg
           aria-hidden="true"
           focusable="false"
@@ -66,9 +66,9 @@ function Footer () {
     </div>
   </div>
   <div
-    className="text-center text-gray-700 p-4 bg" 
+    className="text-center text-gray-700 p-4 bg footer1" 
   >
-    © 2022 Copyright: Ziko Group LLC
+    © 2022 Copyright: Ziko Group LLC - All Rights Reserved.
   
   </div>
 </footer>

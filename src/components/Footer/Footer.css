@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap');
+
+
+
 footer{
     background-color: rgba(0, 0, 0, 0.929);
     color: rgb(73, 73, 73) !important;
@@ -33,6 +37,23 @@ ul{
 
 .bg{
     background-color: rgba(0, 0, 0, 0.155);
-    color: white;
+    border-top: 1px solid rgb(74, 74, 74);
+    color: #969696;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-size: 15px;
+
 }
 
+
+.icon {
+    color: rgb(156, 156, 156);
+    
+}
+
+.icon:hover{
+    color: #cea6f3;
+    animation: flip;
+    animation-duration: 1s;
+
+    
+}

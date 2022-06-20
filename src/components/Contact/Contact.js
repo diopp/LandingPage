@@ -39,8 +39,11 @@ function Contact () {
                 </div>
                 
                 <div class="mt-6 ">
+                <form name="contact" method="POST" data-netlify="true">
                     <div class="items-center -mx-2 md:flex">
+                        
                         <div class="w-full mx-2">
+                      
                             <label class="leading-7 text-sm text-gray-400">Name</label>
         
                             <input class="input w-full bg-gray-800 bg-opacity-40 rounded border border-gray-700  text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" type="text" />
@@ -57,14 +60,23 @@ function Contact () {
                         <label class="leading-7 text-sm text-gray-400">Message</label>
         
                         <textarea class="input w-full bg-gray-800 bg-opacity-40 rounded border border-gray-700   h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
+                        
                     </div>
+                    
         
                     <div class="flex justify-center mt-6">
+                        
                         <button id='button' >Send Message</button>
+                        
                     </div>
+                    </form>
+
                 </div>
+                
             </section>
+            
             </div>
+            
 
 
           

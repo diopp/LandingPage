@@ -7,7 +7,7 @@
 }
 
 #contact {
-    margin-top: -120px;
+    margin-top: -10px;
     background-color: black !important;
 }
 
@@ -24,3 +24,20 @@
     background-color: #d9bbf7;
 
 }
+
+#header2 {
+    color: rgba(199, 199, 199, 0.399);
+    font-size: 55px !important;
+    text-align: center;
+}
+
+#pr1{
+    
+    font-size: 25px;
+    font-size: 100;
+    color: #c39aeac8;
+    text-align: center;
+
+}
+
+

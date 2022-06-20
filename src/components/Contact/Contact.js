@@ -7,7 +7,8 @@ function Contact () {
             return (
 <div className='bg-black'>
                 <section id='contact' class="w-full max-w-xl px-6 py-1 mx-auto bg-black rounded-md shadow-md ">
-                <h3 id='pr' class="text-3xl font-semibold text-center text-gray-800 dark:text-white">CONTACT US</h3>
+                <h1 id='header2' class=" uppercase">Contact Us</h1>
+                <h3 id='pr1' class="mt-2 text-2xl sm:text-left md:text-4xl text-center">GET IN TOUCH</h3>
                
                 
                 <div class="grid grid-cols-1 gap-6 mt-6 sm:grid-cols-2 md:grid-cols-3">

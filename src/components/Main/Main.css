@@ -189,7 +189,30 @@ img{
      
     }
 
+    h1#header2{
+        padding-top: -12%;
+        font-size: 16px !important;
+        letter-spacing: 4px;
+        text-align: center;
+        font-family: "Jost", sans-serif;
+        font-weight: 500;
+        line-height: 1.9;
+        color: #bd9eda;
+        text-transform: uppercase;
+     
+    }
+
     #pr{
+        font-size: 30px;
+        text-align: center;
+        color: #3a3a3abf !important;
+        font-family: "Jost", sans-serif;
+    font-weight: 500;
+    line-height: 1.16;
+    color: #1c1c1c;
+    }
+
+    #pr1{
         font-size: 30px;
         text-align: center;
         color: #3a3a3abf !important;
@@ -303,12 +326,12 @@ button#button{
 
   #header1 {
       color: rgba(199, 199, 199, 0.399);
-      font-size: 65px !important;
+      font-size: 55px !important;
   }
 
   #pr{
       margin-left: 4%;
-      font-size: 30px;
+      font-size: 25px;
       font-size: 100;
       color: #c39aeac8;
 

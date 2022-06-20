@@ -28,7 +28,7 @@ function Main () {
 
                </AnimationOnScroll>
                 <button id='button' className="button" href=''>
-                <a href="#contact">About Us</a>
+                <a href="#contact">Contact Us </a>
         </button>
             </div>
 

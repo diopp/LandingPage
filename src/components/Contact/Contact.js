@@ -11,7 +11,7 @@ function Contact () {
                
                 
                 <div class="grid grid-cols-1 gap-6 mt-6 sm:grid-cols-2 md:grid-cols-3">
-                    <a href="https://www.google.com/maps/place/1000+N+West+St+suite+1200+building,+Wilmington,+DE+19801/@39.7471677,-75.5521784,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6fd3ff6591c49:0x33e3770057b3e565!8m2!3d39.7471677!4d-75.5499897"rel="noopener" target='_blank'  class=" info flex flex-col items-center px-4 py-3 text-gray-700 transition-colors duration-200 transform rounded-md dark:text-gray-200 ">
+                    <a href="https://www.google.com/maps/place/1000+N+West+St+suite+1200+building,+Wilmington,+DE+19801/@39.7471677,-75.5521784,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6fd3ff6591c49:0x33e3770057b3e565!8m2!3d39.7471677!4d-75.5499897"  class=" info flex flex-col items-center px-4 py-3 text-gray-700 transition-colors duration-200 transform rounded-md dark:text-gray-200 ">
                         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd" />
                         </svg>
@@ -19,7 +19,7 @@ function Contact () {
                         <span class="mt-2 text-center">1000 N West St SUITE 1200 </span>
                     </a>
         
-                    <a class="info flex flex-col items-center px-4 py-3 text-gray-700 transition-colors duration-200 transform rounded-md dark:text-gray-200  " rel="noopener" target='_blank'>
+                    <a class="info flex flex-col items-center px-4 py-3 text-gray-700 transition-colors duration-200 transform rounded-md dark:text-gray-200  " >
                         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                         </svg>

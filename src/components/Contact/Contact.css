@@ -94,3 +94,17 @@
     color: #c39aeac8;
 
 }
+
+
+@media (max-width: 1000px) {
+
+
+    #address2{
+        font-size: 16px !important;
+        color: rgb(151, 151, 151);
+    }
+
+    #address{
+        width: 100%;
+    }
+}

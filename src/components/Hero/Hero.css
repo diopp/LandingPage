@@ -5,7 +5,7 @@
 
 h1 {
     font-size: 64px !important;
-    color: white;
+    color: rgba(202, 201, 201, 0.814);
     font-family: "Jost", sans-serif;
     line-height: 1.2;
     font-weight: 100;
@@ -20,6 +20,7 @@ h1 {
     animation: fadeInDown;
     animation-duration: 2s;
     text-align: start;
+    
     
     
 

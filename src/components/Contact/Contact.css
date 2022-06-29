@@ -7,7 +7,7 @@
 }
 
 #contact {
-    margin-top: -10px;
+    margin-top: -60px;
     background-color: black !important;
 }
 
@@ -43,6 +43,54 @@
 .address{
     font-family: Quicksand, sans-serif;
     font-size: 15px;
+    padding: 12%;
+}
+
+#contact1{
+    letter-spacing: .1em;
+    font-size: .75rem;
+    font-family: Quicksand, sans-serif;
+    text-align: left;
+    line-height: 1rem;
+    font-weight: 600;
+    display: block;
+ 
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
 }
 
 
+#p3{
+    margin-top: 0.25rem;
+    font-size: .75rem;
+
+}
+
+#address {
+    background-color: rgb(0, 0, 0);
+    border: 1px solid #d9bbf7;
+}
+
+#address:hover{
+    background-color: #d9bbf71e;
+}
+
+#address1{
+  
+    color: #c39aeac8;
+    font-family: Quicksand, sans-serif;
+}
+
+#address2{
+    color: rgba(199, 199, 199, 0.399);
+    font-family: Quicksand, sans-serif;
+}
+
+#icon{
+
+    color: #c39aeac8;
+
+}

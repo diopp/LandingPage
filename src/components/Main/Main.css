@@ -296,6 +296,7 @@ button#button{
     margin-left: 3.7%;
     width: 35%;
     font-weight: 200;
+    font-size: 16px;
   }
 
   button#button:before{

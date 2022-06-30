@@ -10,7 +10,7 @@ function Footer () {
 >
   <div className="container pt-9">
     <div className="flex justify-center mb-9 ml-10">
-      <a href="@ZikoMotorsports" className="icon mr-9 text-gray-800">
+      <a href="https://twitter.com/ZikoMotorsports" className="icon mr-9 text-gray-800">
         <svg
           aria-hidden="true"
           focusable="false"
@@ -46,7 +46,7 @@ function Footer () {
         </svg>
       </a>
 
-      <a href="#!" className="icon mr-9 text-gray-800 ">
+      <a href="https://www.yelp.com/biz/ziko-group-wilmington!" className="icon mr-9 text-gray-800 ">
         <svg
           aria-hidden="true"
           focusable="false"

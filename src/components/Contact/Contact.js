@@ -39,7 +39,7 @@ Wilmington, Delaware, 19801
             </p>
           </div>
           <p id='address2' className="text-sm text-gray-900">
-          (302) 295-4893 EXT: 4975
+          (302) 295-4893
           </p>
         </div>
         <div  id='address' className="p-5 duration-300 transform bg-white border rounded shadow-sm hover:-translate-y-2">

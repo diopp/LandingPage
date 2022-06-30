@@ -46,7 +46,7 @@ function Footer () {
         </svg>
       </a>
 
-      <a href="https://www.yelp.com/biz/ziko-group-wilmington!" className="icon mr-9 text-gray-800 ">
+      <a href="https://www.yelp.com/biz/ziko-group-wilmington" className="icon mr-9 text-gray-800 ">
         <svg
           aria-hidden="true"
           focusable="false"
